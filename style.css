@@ -1,11 +1,11 @@
 
 body{
-    background-color: rebeccapurple;
+    background-color: rgb(156, 81, 231);
     text-align: center;
     text-transform: uppercase;
 }
 
 h1 {
     font-size: 50px;
-    color:rgb(129, 255, 91);
+    color:rgb(84, 207, 46);
 }
