@@ -20,6 +20,8 @@ h1 {
 
 .textos {
     width: 90%;
+    align-content: center;
+    margin: auto;
     font-size: 30px;
     text-align: center;
     color: black;
